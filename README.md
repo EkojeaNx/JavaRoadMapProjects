@@ -9,6 +9,7 @@ Java öğrenirken hazırladığım projeler
 3. [KdvHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/KdvHesapla) : Kullanıcıdan alınan ücret bilgisinin 1000 tl üzeri %8 altı %18 olarak kdvli fiyat hesaplayan program.
 4. [UcgenAlanHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/UcgenAlanHesapla)
 : Kullanıcıdan üçgenin 3 kenar bilgisini alıp üçgenin alanını hesaplayan program.
+5. [TaksimetreHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/TaksimetreHesapla) : Kullanıcının girdiği mesafeye göre ödenecek tutarı hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
