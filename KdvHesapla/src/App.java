@@ -6,18 +6,24 @@ public class App {
         // Kullanıcıdan veri almak için scanner sınıfını kullanıyoruz.
         Scanner degerAl = new Scanner(System.in);
 
-        double para = 0, kdvli, kdv;
+        // Değişkenler
+        double tutar, kdvOran, kdvTutar, kdvliTutar;
 
-        System.out.print("Para: ");
-        para = degerAl.nextDouble();
+        // Kullanıcıdan ücret bilgisi alınıyor
+        System.out.print("Ücret Tutarını Giriniz: ");
+        tutar = degerAl.nextDouble();
 
-        kdv = para > 1000 ? 1.8 : 0.8;
+        // Kdv oranı 1000 tl üstünde %8 altında %18 koşulu ile hesaplanıyor
+        kdvOran = tutar > 1000 ? 0.08 : 0.18;
 
-        kdvli = para * kdv;
+        // Kdv tutarı ve kdv'li tutar hesaplanıyor ve ekrana yazdırılıyor.
+        kdvTutar = tutar * kdvOran;
+        kdvliTutar = tutar + kdvTutar;
 
-        System.out.println("KDV'siz Fiyat: " + para);
-        System.out.println("KDV'li Fiyat: " + kdvli);
-        System.out.println("KDV tutar: " + kdv);
+        System.out.println("KDV'siz Tutar: " + tutar);
+        System.out.println("KDV Oranı: " + kdvOran);
+        System.out.println("KDV Tutar: " + kdvTutar);
+        System.out.println("KDV'li Tutar: " + kdvliTutar);
 
         // Scanner sınıfını kapatıyoruz
         degerAl.close();
