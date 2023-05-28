@@ -10,6 +10,7 @@ Java öğrenirken hazırladığım projeler
 4. [UcgenAlanHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/UcgenAlanHesapla)
 : Kullanıcıdan üçgenin 3 kenar bilgisini alıp üçgenin alanını hesaplayan program.
 5. [TaksimetreHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/TaksimetreHesapla) : Kullanıcının girdiği mesafeye göre ödenecek tutarı hesaplayan program.
+6. [DaireninAlaniVeCevresiniHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DaireninAlaniVeCevresiniHesapla) : Kullanıcının girdiği yarı çapı ve merkez açı ölçüsü ile dairenin alanı, çevresi ve dilim alanını hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
