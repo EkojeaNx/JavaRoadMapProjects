@@ -12,7 +12,8 @@ Java öğrenirken hazırladığım projeler
 5. [TaksimetreHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/TaksimetreHesapla) : Kullanıcının girdiği mesafeye göre ödenecek tutarı hesaplayan program.
 6. [DaireninAlaniVeCevresiniHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DaireninAlaniVeCevresiniHesapla) : Kullanıcının girdiği yarı çapı ve merkez açı ölçüsü ile dairenin alanı, çevresi ve dilim alanını hesaplayan program.
 7. [VucutKitleIndeksiHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/VucutKitleIndeksiHesapla) : Kullanıcının girdiği boy ve kilo bilgisi ile vücut kitle indeksi hesaplayan program.
-8. [ManavKasa](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/ManavKasa) : Manav Programı
+8. [ManavKasa](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/ManavKasa) : Manav Programı.
+9. [SwitchCaseBasitHesapMakinesi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/SwitchCaseBasitHesapMakinesi) : Switch-Case kullanılarak basit hesap makinesi programı.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
