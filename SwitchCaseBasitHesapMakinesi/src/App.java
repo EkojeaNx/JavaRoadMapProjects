@@ -38,7 +38,7 @@ public class App {
                 {
                     System.out.println("Bölme işleminde 0'a bölünme olmaz!");
                 } else {
-                sonuc = n1 / n2;
+                    sonuc = n1 / n2;
                 }
                 break;       
             default:
