@@ -34,7 +34,12 @@ public class App {
                 sonuc = n1 * n2;
                 break;
             case 4:
+                if (n1 == 0 || n2 == 0)
+                {
+                    System.out.println("Bölme işleminde 0'a bölünme olmaz!");
+                } else {
                 sonuc = n1 / n2;
+                }
                 break;       
             default:
                 System.out.println("Böyle bir işlem mevcut değil!");
