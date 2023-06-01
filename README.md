@@ -14,6 +14,7 @@ Java öğrenirken hazırladığım projeler
 7. [VucutKitleIndeksiHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/VucutKitleIndeksiHesapla) : Kullanıcının girdiği boy ve kilo bilgisi ile vücut kitle indeksi hesaplayan program.
 8. [ManavKasa](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/ManavKasa) : Manav Programı.
 9. [SwitchCaseBasitHesapMakinesi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/SwitchCaseBasitHesapMakinesi) : Switch-Case kullanılarak basit hesap makinesi programı.
+10. [BasitKullaniciGirisi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BasitKullaniciGirisi) : Basit kullanıcı girişi programı.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
