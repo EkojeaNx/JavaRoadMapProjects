@@ -18,6 +18,7 @@ Java öğrenirken hazırladığım projeler
 11. [SinifGecmeDurumu](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/SinifGecmeDurumu) : 0-100 arasındaki ders notlarının ortalamasını hesaplayan program.
 12. [HavayaGoreEtkinlik](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/HavayaGoreEtkinlik) : Sıcaklık bilgisine göre etkinlik öneren program.
 13. [GirilenSayilariKucuktenBuyugeSirala](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/GirilenSayilariKucuktenBuyugeSirala) : Girilen 3 sayıyı küçükten büyüğe sıralayan program.
+14. [BurcBulma](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BurcBulma) : Girilen ay ve güne göre burcunu bulan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
