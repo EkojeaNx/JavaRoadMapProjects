@@ -15,6 +15,7 @@ Java öğrenirken hazırladığım projeler
 8. [ManavKasa](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/ManavKasa) : Manav Programı.
 9. [SwitchCaseBasitHesapMakinesi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/SwitchCaseBasitHesapMakinesi) : Switch-Case kullanılarak basit hesap makinesi programı.
 10. [BasitKullaniciGirisi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BasitKullaniciGirisi) : Basit kullanıcı girişi programı.
+11. [SinifGecmeDurumu](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/SinifGecmeDurumu) : 0-100 arasındaki ders notlarının ortalamasını hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
