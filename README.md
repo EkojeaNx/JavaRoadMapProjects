@@ -17,6 +17,7 @@ Java öğrenirken hazırladığım projeler
 10. [BasitKullaniciGirisi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BasitKullaniciGirisi) : Basit kullanıcı girişi programı.
 11. [SinifGecmeDurumu](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/SinifGecmeDurumu) : 0-100 arasındaki ders notlarının ortalamasını hesaplayan program.
 12. [HavayaGoreEtkinlik](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/HavayaGoreEtkinlik) : Sıcaklık bilgisine göre etkinlik öneren program.
+13. [GirilenSayilariKucuktenBuyugeSirala](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/GirilenSayilariKucuktenBuyugeSirala) : Girilen 3 sayıyı küçükten büyüğe sıralayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
