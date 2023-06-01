@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         // Kullanıcıdan veri almak için scanner sınıfını kullanıyoruz.
         Scanner degerAl = new Scanner(System.in);
 
