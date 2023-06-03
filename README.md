@@ -22,6 +22,7 @@ Java öğrenirken hazırladığım projeler
 15. [UcakBiletiAl](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/UcakBiletiAl) : Uçak Bilet Fiyatını hesaplayan program.
 16. [CinZodyagi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/CinZodyagi) : Çin Zodyağını hesaplayan program.
 17. [ArtikYilHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/ArtikYilHesapla) : Artık yılı hesaplayan program.
+18. [UcVeDordeTamBolunenOrtalama]() : 
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
