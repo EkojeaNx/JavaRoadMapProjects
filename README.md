@@ -1,5 +1,5 @@
 # Java Yolculuğu
-Java öğrenirken hazırladığım projeleri bulunduğu repository.
+Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje listeleri üzerindeki proje isimlerinin arka planında link vardır. Projelerde kaynak kodları src klasörünün altında bulunan App.java dosyasının içerisindedir.
 
 ![Java](https://www.mediaclick.com.tr/application/files/6816/8130/9538/java.png)
 
