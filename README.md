@@ -25,6 +25,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 18. [UcVeDordeTamBolunenOrtalama](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/UcVeDordeTamBolunenOrtalama) : 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan program.
 19. [DordunKatiCiftSayiToplamHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DordunKatiCiftSayiToplamHesapla) : Tek sayı girilene kadar kullanıcıdan değer alıp girilen değerlerin 4'ün katı olanların toplamını hesaplayan program.
 20. [GirilenSayiyaKadar4ve5KuvvetHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/GirilenSayiyaKadar4ve5KuvvetHesapla) : Girilen sayıya kadar olan sayıların 4 ve 5'in kuvvetlerini ekrana yazan program.
+21. [KombinasyonHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/KombinasyonHesapla) : Kombinasyonu hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
