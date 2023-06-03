@@ -1,5 +1,5 @@
 # Java Yolculuğu
-Java öğrenirken hazırladığım projeler
+Java öğrenirken hazırladığım projeleri bulunduğu repository.
 
 ![Java](https://www.mediaclick.com.tr/application/files/6816/8130/9538/java.png)
 
