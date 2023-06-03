@@ -20,6 +20,7 @@ Java öğrenirken hazırladığım projeler
 13. [GirilenSayilariKucuktenBuyugeSirala](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/GirilenSayilariKucuktenBuyugeSirala) : Girilen 3 sayıyı küçükten büyüğe sıralayan program.
 14. [BurcBulma](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BurcBulma) : Girilen ay ve güne göre burcunu bulan program.
 15. [UcakBiletiAl](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/UcakBiletiAl) : Uçak Bilet Fiyatını hesaplayan program.
+16. [CinZodyagi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/CinZodyagi) : Çin Zodyağını hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
