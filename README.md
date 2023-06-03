@@ -23,6 +23,7 @@ Java öğrenirken hazırladığım projeler
 16. [CinZodyagi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/CinZodyagi) : Çin Zodyağını hesaplayan program.
 17. [ArtikYilHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/ArtikYilHesapla) : Artık yılı hesaplayan program.
 18. [UcVeDordeTamBolunenOrtalama](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/UcVeDordeTamBolunenOrtalama) : 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan program.
+19. [DordunKatiCiftSayiToplamHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DordunKatiCiftSayiToplamHesapla) : Tek sayı girilene kadar kullanıcıdan değer alıp girilen değerlerin 4'ün katı olanların toplamını hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
