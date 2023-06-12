@@ -29,6 +29,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 22. [UsluSayiHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/UsluSayiHesapla) : Sayının üssünü hesaplayan program.
 23. [BasamakSayiToplamHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BasamakSayiToplamHesapla) : Kullanıcıdan girilen bir sayının basamak sayılarının değerini hesaplayan program.
 24. [HarmonikSayilar](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/HarmonikSayilar) : Harmonik Serisini hesaplayan program.
+25. [YildizlarlaElmas](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/YildizlarlaElmas) : Yıldızlarla elmas yapan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
