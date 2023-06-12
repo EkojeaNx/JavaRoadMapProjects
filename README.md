@@ -27,6 +27,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 20. [GirilenSayiyaKadar4ve5KuvvetHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/GirilenSayiyaKadar4ve5KuvvetHesapla) : Girilen sayıya kadar olan sayıların 4 ve 5'in kuvvetlerini ekrana yazan program.
 21. [KombinasyonHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/KombinasyonHesapla) : Kombinasyonu hesaplayan program.
 22. [UsluSayiHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/UsluSayiHesapla) : Sayının üssünü hesaplayan program.
+23. [BasamakSayiToplamHesapla]() : Kullanıcıdan girilen bir sayının basamak sayılarının değerini hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
