@@ -31,6 +31,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 24. [HarmonikSayilar](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/HarmonikSayilar) : Harmonik Serisini hesaplayan program.
 25. [YildizlarlaElmas](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/YildizlarlaElmas) : Yıldızlarla elmas yapan program.
 26. [BankaATM](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BankaATM) : Bankamatik programı.
+27. [EBOBveEKOKHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/EBOBveEKOKHesapla) : Kullanıcıdan girilen 2 sayının ekok ve ebob'unu hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
