@@ -33,6 +33,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 26. [BankaATM](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BankaATM) : Bankamatik programı.
 27. [EBOBveEKOKHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/EBOBveEKOKHesapla) : Kullanıcıdan girilen 2 sayının ekok ve ebob'unu hesaplayan program.
 28. [GirilenSayiMinMaxHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/GirilenSayiMinMaxHesapla) : Kullanıcıdan girilen adet kadar sayı bilgisi alınarak Min ve Max sayılarını hesaplayan program.
+29. [MukemmelSayiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/MukemmelSayiBul) : Girilen sayının mükemmel sayı olup olmadığını bulan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
