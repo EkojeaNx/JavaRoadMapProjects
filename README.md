@@ -37,6 +37,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 30. [TersUcgenYap](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/TersUcgenYap) : Ters üçgen yapan program.
 31. [AsalSayiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/AsalSayiBul) : 1-100 Arasındaki asal sayıları bulan program.
 32. [FibonacciSerisiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/FibonacciSerisiBul) : Girilen eleman sayısına kadarki Fibonacci Serisini bulan program.
+33. [PalindromSayiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/PalindromSayiBul) : Kullanıcıdan girilen sayının Palindrom sayı olup olmadığını bulan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
