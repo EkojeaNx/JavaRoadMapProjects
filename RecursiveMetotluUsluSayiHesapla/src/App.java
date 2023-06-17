@@ -1,5 +1,4 @@
 // Kullanıcıdan veri alma kütüphanesi
-
 import java.util.Scanner;
 
 public class App {

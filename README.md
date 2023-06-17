@@ -40,6 +40,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 33. [PalindromSayiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/PalindromSayiBul) : Kullanıcıdan girilen sayının Palindrom sayı olup olmadığını bulan program.
 34. [GelismisHesapMakinesi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/GelismisHesapMakinesi) : Gelişmiş bir hesap makinesi programı.
 35. [RecursiveMetotluUsluSayiHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/RecursiveMetotluUsluSayiHesapla) : Recursive Metot kullanılarak üs hesaplayan program.
+36. [RecursiveMetotluAsalSayiHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/RecursiveMetotluAsalSayiHesapla) : Recursive Metot kullanılarak Asal sayıyı hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
