@@ -38,6 +38,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 31. [AsalSayiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/AsalSayiBul) : 1-100 Arasındaki asal sayıları bulan program.
 32. [FibonacciSerisiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/FibonacciSerisiBul) : Girilen eleman sayısına kadarki Fibonacci Serisini bulan program.
 33. [PalindromSayiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/PalindromSayiBul) : Kullanıcıdan girilen sayının Palindrom sayı olup olmadığını bulan program.
+34. [GelismisHesapMakinesi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/GelismisHesapMakinesi) : Gelişmiş bir hesap makinesi programı.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
