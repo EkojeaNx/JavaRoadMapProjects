@@ -21,6 +21,9 @@ public class App {
         sonuc = isUsHesapla(tabanDeger, usDeger);
 
         System.out.println("Sonuç: " + sonuc);
+
+        // Scanner sınıfını kapatıyoruz
+        degerAl.close();
     }
 
     // Recursive Metot ile üs hesaplama
