@@ -43,6 +43,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 36. [RecursiveMetotluAsalSayiHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/RecursiveMetotluAsalSayiHesapla) : Recursive Metot kullanılarak Asal sayıyı hesaplayan program.
 37. [DeseneGoreMetotOlusturma](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DeseneGoreMetotOlusturma) : Desene göre metot oluşturma.
 38. [OgrenciBilgiSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/OgrenciBilgiSistemi) : Öğrenci Bilgi Sistemi programı.
+39. [BoksOyunu](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BoksOyunu) : Boks Oyunu programı.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
