@@ -45,6 +45,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 38. [OgrenciBilgiSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/OgrenciBilgiSistemi) : Öğrenci Bilgi Sistemi programı.
 39. [BoksOyunu](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BoksOyunu) : Boks Oyunu programı.
 40. [MaasHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/MaasHesapla) : Belirli kriterlere göre maaş hesaplayan program.
+41. [HarmonikOrtalamaHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/HarmonikOrtalamaHesapla) : Harmonik Ortalama hesaplayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
