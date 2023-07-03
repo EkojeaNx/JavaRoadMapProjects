@@ -47,6 +47,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 40. [MaasHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/MaasHesapla) : Belirli kriterlere göre maaş hesaplayan program.
 41. [HarmonikOrtalamaHesapla](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/HarmonikOrtalamaHesapla) : Harmonik Ortalama hesaplayan program.
 42. [EnYakinSayiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/EnYakinSayiBul) : N sayılı kullanıcıdan alınan dizinin girilen sayıya en yakım minimum ve maximum sayılarını hesaplayan program.
+43. [BHarfiYaz](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BHarfiYaz) : B harfini ekrana yazan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
