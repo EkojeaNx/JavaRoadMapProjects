@@ -49,6 +49,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 42. [EnYakinSayiBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/EnYakinSayiBul) : N sayılı kullanıcıdan alınan dizinin girilen sayıya en yakım minimum ve maximum sayılarını hesaplayan program.
 43. [BHarfiYaz](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BHarfiYaz) : B harfini ekrana yazan program.
 44. [DizideTekrarEdenCiftSayilar](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DizideTekrarEdenCiftSayilar) : Dizide tekrar eden çift sayıları bulan program.
+45. [DiziElemanlariSirala](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DiziElemanlariSirala) : Kullanıcının girmiş olduğu diziyi küçükten büyüğe sıralayan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
