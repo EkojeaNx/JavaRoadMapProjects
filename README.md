@@ -50,6 +50,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 43. [BHarfiYaz](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/BHarfiYaz) : B harfini ekrana yazan program.
 44. [DizideTekrarEdenCiftSayilar](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DizideTekrarEdenCiftSayilar) : Dizide tekrar eden çift sayıları bulan program.
 45. [DiziElemanlariSirala](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DiziElemanlariSirala) : Kullanıcının girmiş olduğu diziyi küçükten büyüğe sıralayan program.
+46. [DizideTekrarEdenFrekansBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DizideTekrarEdenFrekansBul) : Dizide tekrar eden sayıların kaç kere tekrar ettiğini bulan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
