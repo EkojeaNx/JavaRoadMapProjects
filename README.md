@@ -51,6 +51,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 44. [DizideTekrarEdenCiftSayilar](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DizideTekrarEdenCiftSayilar) : Dizide tekrar eden çift sayıları bulan program.
 45. [DiziElemanlariSirala](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DiziElemanlariSirala) : Kullanıcının girmiş olduğu diziyi küçükten büyüğe sıralayan program.
 46. [DizideTekrarEdenFrekansBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DizideTekrarEdenFrekansBul) : Dizide tekrar eden sayıların kaç kere tekrar ettiğini bulan program.
+47. [MatrisTranspozunuBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/MatrisTranspozunuBul) : Kullanıcıdan girilen çok boyutlu matris dizisinin transpoze matrisini bulan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
