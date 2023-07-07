@@ -53,6 +53,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 46. [DizideTekrarEdenFrekansBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/DizideTekrarEdenFrekansBul) : Dizide tekrar eden sayıların kaç kere tekrar ettiğini bulan program.
 47. [MatrisTranspozunuBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/MatrisTranspozunuBul) : Kullanıcıdan girilen çok boyutlu matris dizisinin transpoze matrisini bulan program.
 48. [SayiTahminOyunu](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/SayiTahminOyunu) : 0-100 arasında rastgele seçilen sayıyı bulma oyunu.
+49. [PalindromikKelimeBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/PalindromikKelimeBul) : Kullanıcının girmiş olduğu kelimenin tersten okunuşu aynı olan Palindromik kelime olup olmadığını bulan program.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
