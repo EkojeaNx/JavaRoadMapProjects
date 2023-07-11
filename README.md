@@ -54,6 +54,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 47. [MatrisTranspozunuBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/MatrisTranspozunuBul) : Kullanıcıdan girilen çok boyutlu matris dizisinin transpoze matrisini bulan program.
 48. [SayiTahminOyunu](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/SayiTahminOyunu) : 0-100 arasında rastgele seçilen sayıyı bulma oyunu.
 49. [PalindromikKelimeBul](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/main/PalindromikKelimeBul) : Kullanıcının girmiş olduğu kelimenin tersten okunuşu aynı olan Palindromik kelime olup olmadığını bulan program.
+50. [MayinTarlasiOyunu](https://github.com/EkojeaNx/JavaRoadMapProjects/tree/EkojeaN/MayinTarlasiOyunu) : Mayın Tarlası oyunu.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
