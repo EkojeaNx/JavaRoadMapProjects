@@ -58,6 +58,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 51. [UniversiteYonetimSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/UniversiteYonetimSistemi/UniversiteYonetimSistemiUML.drawio.png) : Üniversite Yönetim Sistemi UML diagramı.
 52. [HayvanatBahcesiYonetimi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/HayvanatBahcesiYonetimi/HayvanatBahcesiYonetimi.drawio.png) : Hayvanat Bahçesi Yönetim Sistemi UML diagramı.
 53. [UcusYonetimSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/UcusYonetimSistemi/UcusYonetimSistemi.drawio.png) : Uçuş Yönetim Sistemi UML diagramı.
+54. [OnlineFilmSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/OnlineFilmSistemi/OnlineFilmSistemi.drawio.png) : Online Film Sistemi UML diagramı.
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
