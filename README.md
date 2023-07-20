@@ -61,7 +61,10 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 54. [OnlineFilmSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/OnlineFilmSistemi/OnlineFilmSistemi.drawio.png) : Online Film Sistemi UML diagramı.
 55. [AsansorSimulasyonu](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/AsansorSimulasyonu/AsansorSimulasyonu.drawio.png) : Asansör Simülasyonu UML diagramı.
 56. [PostgreSQL-Odev1](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev1.sql) : Sql Eğitim Ödev 1
-56. [PostgreSQL-Odev2](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev2.sql) : Sql Eğitim Ödev 2
+57. [PostgreSQL-Odev2](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev2.sql) : Sql Eğitim Ödev 2
+58. [PostgreSQL-Odev3](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev3.sql) : Sql Eğitim Ödev 3
+59. [PostgreSQL-Odev4](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev4.sql) : Sql Eğitim Ödev 4
+60. [PostgreSQL-Odev5](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev5.sql) : Sql Eğitim Ödev 5
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
