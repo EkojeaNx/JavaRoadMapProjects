@@ -7,4 +7,4 @@ SELECT f.* FROM film f WHERE f.rental_rate = 0.99 AND (f.replacement_cost = 12.9
 -- 4. customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşterinin last_name sütunundaki değeri nedir?
 SELECT c.last_name FROM customer c WHERE c.first_name = 'Mary';
 -- 5. film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
-SELECT * FROM film f WHERE NOT (f.length > 50) AND NOT (f.rental_rate = 2.99 OR f.rental_rate = 4.99);
+SELECT f.* FROM film f WHERE NOT (f.length > 50) AND NOT (f.rental_rate = 2.99 OR f.rental_rate = 4.99);
