@@ -60,6 +60,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 53. [UcusYonetimSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/UcusYonetimSistemi/UcusYonetimSistemi.drawio.png) : Uçuş Yönetim Sistemi UML diagramı.
 54. [OnlineFilmSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/OnlineFilmSistemi/OnlineFilmSistemi.drawio.png) : Online Film Sistemi UML diagramı.
 55. [AsansorSimulasyonu](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/AsansorSimulasyonu/AsansorSimulasyonu.drawio.png) : Asansör Simülasyonu UML diagramı.
+56. [PostgreSQL-Odev1](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev1.sql) : Sql Eğitim Ödev 1
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)
