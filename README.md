@@ -60,11 +60,13 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 53. [UcusYonetimSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/UcusYonetimSistemi/UcusYonetimSistemi.drawio.png) : Uçuş Yönetim Sistemi UML diagramı.
 54. [OnlineFilmSistemi](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/OnlineFilmSistemi/OnlineFilmSistemi.drawio.png) : Online Film Sistemi UML diagramı.
 55. [AsansorSimulasyonu](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/AsansorSimulasyonu/AsansorSimulasyonu.drawio.png) : Asansör Simülasyonu UML diagramı.
-56. [PostgreSQL-Odev1](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev1.sql) : Sql Eğitim Ödev 1
-57. [PostgreSQL-Odev2](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev2.sql) : Sql Eğitim Ödev 2
-58. [PostgreSQL-Odev3](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev3.sql) : Sql Eğitim Ödev 3
-59. [PostgreSQL-Odev4](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev4.sql) : Sql Eğitim Ödev 4
-60. [PostgreSQL-Odev5](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev5.sql) : Sql Eğitim Ödev 5
+56. [PostgreSQL-Odev1](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev1.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 1
+57. [PostgreSQL-Odev2](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev2.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 2
+58. [PostgreSQL-Odev3](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev3.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 3
+59. [PostgreSQL-Odev4](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev4.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 4
+60. [PostgreSQL-Odev5](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev5.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 5
+61. [PostgreSQL-Odev6](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev6.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 6
+62. [PostgreSQL-Odev7](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev7.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 7
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)

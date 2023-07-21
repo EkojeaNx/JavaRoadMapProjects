@@ -1,3 +1,4 @@
+/* Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 1 */
 -- 1. film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
 SELECT f.title, f.description FROM film f;
 -- 2. film tablosunda bulunan tüm sütunlardaki verileri film uzunluğu (length) 60 dan büyük VE 75 ten küçük olma koşullarıyla sıralayınız.
