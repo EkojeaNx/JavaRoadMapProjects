@@ -2,7 +2,7 @@
 1. Kullanılan Veritabanı Programı : [PostgreSQL](https://www.postgresql.org/download/) 
 2. Kullanılan Veritabanı : [DVDRental](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 
-# SQL Sorgular
+# SQL Eğitimindeki Öğrendiklerim
 - Select Anahtar Kelimesi (Tablo Sorgulama)
 ```
 SELECT * FROM <Tablo Adı>; -- Tabloya ait tüm sütunları ile verili listeleme
@@ -190,5 +190,8 @@ interval [ fields ] [ (p) ]	            |16 bytes
 SELECT (<Değer>::<Değerin Dönüşeceği Veri Tipi>);
 ```
 - NOT NULL Anahtar Kelimesi (Boş Bırakılamaz)
+```
+```
+- ALTER TABLE Anahtar Kelimesi (Boş Bırakılamaz)
 ```
 ```
