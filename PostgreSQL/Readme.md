@@ -214,3 +214,18 @@ ALTER TABLE <Tablo Adı> ADD CHECK(<Koşul>); -- Bahsi geçen tabloda bahsi geç
 SELECT * FROM <1.Tablo Adı>
 INNER JOIN <2.Tablo Adı> ON <1.Tablo Adı>.<Sütun Adı> = <2.Tablo Adı>.<Sütun Adı>; -- 2 Farklı tabloyu eşleştirerek ortak kümesini alıyoruz
 ```
+- LEFT JOIN Anahtar Kelimesi (Farklı Tabloları Birleştirme Soldakini Önde Tutma)
+```
+SELECT * FROM <1.Tablo Adı>
+LEFT JOIN <2.Tablo Adı> ON <1.Tablo Adı>.<Sütun Adı> = <2.Tablo Adı>.<Sütun Adı>; -- 2 Farklı tabloyu eşleştirerek 1. Tablonun tamamı 2. tablonun eşitlenen verilerini alıyoruz
+```
+- RIGHT JOIN Anahtar Kelimesi (Farklı Tabloları Birleştirme Sağdakini Önde Tutma)
+```
+SELECT * FROM <1.Tablo Adı>
+RIGHT JOIN <2.Tablo Adı> ON <1.Tablo Adı>.<Sütun Adı> = <2.Tablo Adı>.<Sütun Adı>; -- 2 Farklı tabloyu eşleştirerek 2. Tablonun tamamı 1. tablonun eşitlenen verilerini alıyoruz
+```
+- FULL JOIN Anahtar Kelimesi (Farklı Tabloları Birleştirme Sağ ve Sol Tablolarındaki Tüm Verileri Önde Tutma)
+```
+SELECT * FROM <1.Tablo Adı>
+FULL JOIN <2.Tablo Adı> ON <1.Tablo Adı>.<Sütun Adı> = <2.Tablo Adı>.<Sütun Adı>; -- 2 Farklı tabloyu eşleştirerek 2 tablonunda tüm kayıtlarını alıyoruz
+```
