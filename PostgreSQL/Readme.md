@@ -191,7 +191,26 @@ SELECT (<Değer>::<Değerin Dönüşeceği Veri Tipi>);
 ```
 - NOT NULL Anahtar Kelimesi (Boş Bırakılamaz)
 ```
+CREATE TABLE <Tablo Adı> (
+    <Sütun Adı> <Veri Tipi> PRIMARY KEY,
+    ...
+    <Sütun Adı> <Veri Tipi> NOT NULL
+); -- Belirtilen sütunun boş bırakılamaz yapıldı
 ```
-- ALTER TABLE Anahtar Kelimesi (Boş Bırakılamaz)
+- ALTER TABLE Anahtar Kelimesi (Tablo Üzerinde Değişiklik Yapma)
 ```
+ALTER TABLE <Tablo Adı> ALTER COLUMN <Sütun Adı> SET NOT NULL; -- Bahsi geçen tabloda bahsi geçen sütunu boş bırakılamaz olarak değiştirdik
+```
+- UNIQUE Anahtar Kelimesi (Sütunda Aynı Veri Olmasını Engelleme)
+```
+ALTER TABLE <Tablo Adı> ADD UNIQUE(<Sütun Adı>); -- Bahsi geçen tabloda bahsi geçen sütunu değerlerinin aynı olmasını engelledik
+```
+- CHECK Anahtar Kelimesi (Sütunda Koşul Koyma)
+```
+ALTER TABLE <Tablo Adı> ADD CHECK(<Koşul>); -- Bahsi geçen tabloda bahsi geçen sütunu koşula bağladık
+```
+- INNER JOIN Anahtar Kelimesi (Farklı Tabloları Birleştirme)
+```
+SELECT * FROM <1.Tablo Adı>
+INNER JOIN <2.Tablo Adı> ON <1.Tablo Adı>.<Sütun Adı> = <2.Tablo Adı>.<Sütun Adı>; -- 2 Farklı tabloyu eşleştirerek ortak kümesini alıyoruz
 ```
