@@ -250,3 +250,18 @@ INTERSECT
 EXCEPT
 (SELECT * FROM <Tablo Adı>); -- 1 Sorguda olan 2. sorguda olmayan veriler alındı
 ```
+- ALT SORGU (İç İçe Sorgu)
+```
+SELECT * FROM <Tablo Adı> 
+WHERE <Sütun Adı> <Koşul> (SELECT <Sütun Adı> FROM <Tablo Adı>);
+```
+- ANY Anahtar Kelimesi (İç İçe Sorguda 1'den Fazla Kaydın Koşulunu Sağlama)
+```
+SELECT * FROM <Tablo Adı> 
+WHERE <Sütun Adı> <Koşul> ANY (SELECT <Sütun Adı> FROM <Tablo Adı>);
+```
+- ALL Anahtar Kelimesi (İç İçe Sorguda 1'den Fazla Kaydın Koşulunu Tam Sağlayarak Getirme)
+```
+SELECT * FROM <Tablo Adı> 
+WHERE <Sütun Adı> <Koşul> ALL (SELECT <Sütun Adı> FROM <Tablo Adı>);
+```
