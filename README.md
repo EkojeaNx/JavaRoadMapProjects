@@ -70,6 +70,7 @@ Java öğrenirken hazırladığım projelerin bulunduğu repository. Proje liste
 63. [PostgreSQL-Odev8](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev8.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 8
 64. [PostgreSQL-Odev9](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev9.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 9
 65. [PostgreSQL-Odev10](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev10.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 10
+66. [PostgreSQL-Odev11](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/PostgreSQL/Odev11.sql) : Orta Seviye Java ile Web Development Patikası Eğitimi - SQL Bölümü - Ödev 11
 
 # Lisans
 [MIT](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/main/LICENSE)

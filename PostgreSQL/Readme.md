@@ -229,3 +229,24 @@ RIGHT JOIN <2.Tablo Adı> ON <1.Tablo Adı>.<Sütun Adı> = <2.Tablo Adı>.<Süt
 SELECT * FROM <1.Tablo Adı>
 FULL JOIN <2.Tablo Adı> ON <1.Tablo Adı>.<Sütun Adı> = <2.Tablo Adı>.<Sütun Adı>; -- 2 Farklı tabloyu eşleştirerek 2 tablonunda tüm kayıtlarını alıyoruz
 ```
+- UNION Anahtar Kelimesi (Sorguları Birleştirme)
+```
+(SELECT * FROM <Tablo Adı>)
+UNION
+(SELECT * FROM <Tablo Adı>); -- 2 Sorgu birleştirildi
+(SELECT * FROM <Tablo Adı>)
+UNION ALL
+(SELECT * FROM <Tablo Adı>); -- 2 Sorgu birleştirildi ancak tüm kayıtlar getirildi
+```
+- INTERSECT Anahtar Kelimesi (Sorguda Kesişen Verileri Almak)
+```
+(SELECT * FROM <Tablo Adı>)
+INTERSECT
+(SELECT * FROM <Tablo Adı>); -- 2 Sorgunun kesişim verileri alındı
+```
+- EXCEPT Anahtar Kelimesi (Sorguda Kesişmeyen Verileri Almak)
+```
+(SELECT * FROM <Tablo Adı>)
+EXCEPT
+(SELECT * FROM <Tablo Adı>); -- 1 Sorguda olan 2. sorguda olmayan veriler alındı
+```
