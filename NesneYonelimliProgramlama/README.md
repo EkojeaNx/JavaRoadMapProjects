@@ -1,6 +1,10 @@
 # NESNE YÖNELİMLİ PROGRAMLAMA
 
+<<<<<<< HEAD
 1. [Access Modifiers](https://github.com/EkojeaNx/JavaRoadMapProjects/blob/EkojeaN/NesneYonelimliProgramlama/AccessModifiers.md) : Erişim Belirleyiciler
+=======
+1. [Access Modifiers]() : Erişim Belirleyiciler
+>>>>>>> 1f06bfee4bf4495a8763ef493502878e0bc7a5f9
 2. [Static]() : Static
 3. [Encapsulation]() : Sarmalama
 4. [Inheritance]() : Kalıtım
