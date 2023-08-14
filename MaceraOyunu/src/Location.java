@@ -1,17 +1,10 @@
-/* Kütüphaneler */
-
-import java.util.Scanner;
-
 public abstract class Location {
     /* Nitelikler */
-
     private int id;
     private Player player;
     private String name;
-    public static Scanner scanner = new Scanner(System.in);
 
     /* Kurucu Metot */
-
     public Location(int id, Player player, String name) {
         this.id = id;
         this.player = player;

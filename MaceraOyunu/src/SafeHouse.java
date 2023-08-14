@@ -1,10 +1,5 @@
-/* Kütüphaneler */
-
 public class SafeHouse extends NormalLoc {
-    /* Nitelikler */
-
     /* Kurucu Metot */
-
     public SafeHouse(Player player) {
         super(1, player, "Güvenli Ev");
     }
@@ -14,17 +9,16 @@ public class SafeHouse extends NormalLoc {
     // Güvenli Ev bölgesindeki işlemler
     @Override
     public boolean onLocation() {
-        System.out.println(Colors.RED + "----------------------------------" + Colors.RESET);
-        System.out.println(
-            Colors.BLUE + "##########" + Colors.RESET + " " +
-            Colors.GREEN_UNDERLINED + "Güvenli Ev" + Colors.RESET + " " +
-            Colors.BLUE + "##########" + Colors.RESET);
+        // Başlık
+        GameBase.line();
+        GameBase.title("Güvenli Ev");
+
         System.out.println();
 
-        System.out.println(Colors.YELLOW + ">" + Colors.RESET + Colors.BLUE_BOLD_BRIGHT + " Canınız yenilendi!" + Colors.RESET);
-        //System.out.println(Colors.YELLOW + ">" + Colors.RESET + Colors.BLUE_BOLD_BRIGHT + " Canınız: " + this.getPlayer().getHealth() + Colors.RESET);
+        // İşlemler
+        System.out.println(GameBase.YELLOW + ">" + GameBase.RESET + GameBase.BLUE_BOLD_BRIGHT + " Canınız yenilendi!" + GameBase.RESET);
 
-        System.out.println(Colors.RED + "----------------------------------" + Colors.RESET);
+        GameBase.line();
         return true;
     }   
     

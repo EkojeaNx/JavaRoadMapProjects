@@ -1,4 +1,13 @@
-public class Colors {
+/* Kütüphaneler */
+import java.util.Scanner;
+
+public class GameBase {
+    /* Nitelikler */
+
+    public static Scanner scanner = new Scanner(System.in);
+    
+    // Tasarım
+
     // Reset
     public static final String RESET = "\033[0m";  // Text Reset
 
@@ -71,4 +80,40 @@ public class Colors {
     public static final String PURPLE_BACKGROUND_BRIGHT = "\033[0;105m"; // PURPLE
     public static final String CYAN_BACKGROUND_BRIGHT = "\033[0;106m";  // CYAN
     public static final String WHITE_BACKGROUND_BRIGHT = "\033[0;107m";   // WHITEs
+
+    /* Metotlar */
+
+    // Başlık
+    public static void title(String word) {
+        System.out.println(
+            BLUE + "##########" + RESET + " " +
+            GREEN_UNDERLINED + word + RESET + " " +
+            BLUE + "##########" + RESET);
+    }
+
+    // çizgi
+    public static void line() {
+        System.out.println(RED + "----------------------------------" + RESET);
+    }
+
+    // Önceki renklendirmeyi sıfırlamış çizgi
+    public static void resetLine() {
+        System.out.println(RESET + RED + "----------------------------------" + RESET);
+    }
+    
+    // Oyuncudan veri girişi
+    public static void playerInput(String text) {
+        System.out.print(YELLOW + "# " + text + RESET + GREEN_BOLD);
+    }
+
+    // Uyarı mesajı
+    public static void warningText(String text) {
+        System.out.println(RED_BACKGROUND + text + RESET);
+        System.out.println();
+    }
+
+    // Bilgilendirme mesajı
+    public static void informationText(String text) {
+        System.out.println(YELLOW + "> " + RESET + GREEN_BRIGHT + text + RESET);
+    }
 }

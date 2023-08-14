@@ -1,7 +1,3 @@
-/* Kütüphaneler */
-
-import java.util.Scanner;
-
 public class Player {
     /* Nitelikler */
 
@@ -11,8 +7,6 @@ public class Player {
     private String name;
     private String charName;
     //private Inventory inventory;
-
-    private Scanner scanner = new Scanner(System.in);
 
     /* Kurucu Metot */
 
@@ -31,29 +25,30 @@ public class Player {
             new Archer(), 
             new Knight()             
         };
-        System.out.println(Colors.RED + "----------------------------------" + Colors.RESET);
 
-        System.out.println(
-            Colors.BLUE + "##########" + Colors.RESET + " " +
-            Colors.GREEN_UNDERLINED + "Karakter Sınıfları" + Colors.RESET + " " +
-            Colors.BLUE + "##########" + Colors.RESET);
+        GameBase.line();
+
+        GameBase.title("Karakter Sınıfları");
         System.out.println();     
 
         // Karakter sınıflarını listeliyoruz
         for (GameChar e : charList) {
             System.out.println(
-            "Id: \t" + Colors.RED + e.getId() + Colors.RESET +
-            " \tKarakter Sınıfı: \t" + Colors.RED + e.getName() + Colors.RESET +
-            " \t\tHasar: \t" + Colors.RED + e.getDamage() + Colors.RESET +
-            " \tSağlık: \t" + Colors.RED + e.getHealth() + Colors.RESET +
-            " \tPara: \t" + Colors.RED + e.getMoney() + Colors.RESET);
+            "Id: \t" + GameBase.RED + e.getId() + GameBase.RESET +
+            " \tKarakter Sınıfı: \t" + GameBase.RED + e.getName() + GameBase.RESET +
+            " \t\tHasar: \t" + GameBase.RED + e.getDamage() + GameBase.RESET +
+            " \tSağlık: \t" + GameBase.RED + e.getHealth() + GameBase.RESET +
+            " \tPara: \t" + GameBase.RED + e.getMoney() + GameBase.RESET);
         }
 
         System.out.println();
-        System.out.println(Colors.RED + "----------------------------------" + Colors.RESET);
+        GameBase.line();
+
         // Karakter sınıfı seçimini yaptırıyoruz
-        System.out.print(Colors.YELLOW + "# Lütfen bir karakter seçiniz: " + Colors.RESET + Colors.GREEN_BOLD);
-        int selectChar = scanner.nextInt();
+        GameBase.playerInput("Lütfen bir karakter seçiniz: ");
+        int selectChar = GameBase.scanner.nextInt();
+
+        // Seçim yapılan karakter sınıfını initPlayer metodu ile oluşturuyoruz
         switch (selectChar) {
             case 1:
                 initPlayer(new Samurai());
@@ -69,16 +64,18 @@ public class Player {
                 break;
         }
 
-        System.out.println(Colors.RESET + Colors.RED + "----------------------------------" + Colors.RESET);
+        GameBase.resetLine();
 
         // Geçersiz bir değer girerse otomatik seçim yapıldığı bilgisini iletiyoruz
         if (selectChar < 1 || selectChar > 3) {
-            System.out.println(Colors.RED_BACKGROUND +"Geçersiz seçim yaptığınız için otomatik seçim yapıldı!" + Colors.RESET);
-            System.out.println();
+            GameBase.warningText("Geçersiz seçim yaptığınız için otomatik seçim yapıldı!");
         }
-        System.out.println(Colors.GREEN_BRIGHT + this.getCharName() + " Seçiminiz ziyadesiyle hoş!" + Colors.RESET);
 
-        System.out.println(Colors.RESET + Colors.RED + "----------------------------------" + Colors.RESET);
+        // Seçilen karakter sınıfı bilgisini veriyoruz
+        GameBase.informationText(this.getCharName() + " seçiminiz ziyadesiyle hoş!");
+        //System.out.println(GameBase.GREEN_BRIGHT + this.getCharName() + " Seçiminiz ziyadesiyle hoş!" + GameBase.RESET);
+
+        GameBase.resetLine();
 
     }
 

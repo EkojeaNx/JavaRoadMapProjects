@@ -1,10 +1,12 @@
 public abstract class GameChar {
+    /* Nitelikler */
     private int id;
     private String name;
     private int damage;
     private int health;
     private int money;
 
+    /* Kurucu Metot */
     public GameChar(int id, String name, int damage, int health, int money) {
         this.id = id;
         this.name = name;
@@ -12,6 +14,8 @@ public abstract class GameChar {
         this.health = health;
         this.money = money;
     }
+
+    /* Kapsülleme */
 
     public int getDamage() {
         return damage;
